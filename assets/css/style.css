@@ -1,0 +1,68 @@
+.busqueda{
+    height: 5em;
+    padding: 10px;
+    background-color: #BFA27A;
+}
+.yoo{
+    background-color: #F5F3EF;
+    height: 700px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.yo, img{
+    height: 500px;
+    text-align: center;
+    padding: 50px;
+    padding: 20px;
+}
+.habilidades{
+    height: 200px;
+    padding: 40px;
+}
+.genio{
+    background-color: #BFA27A;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size: larger;
+
+}
+.genio2{
+    background-color: #BFA27A;
+    display: flex;
+    justify-content: space-evenly;
+    height: 250px;
+    padding-top: 30px;
+    font-size: larger;
+}
+.centrar{
+
+    display: flex;
+    justify-content: center;
+}
+.pie{
+    border: black 2px solid;
+    background-color: #aa8f6a;
+    height: 90px;
+}
+.grande{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.lejos{
+    width: 1350px;
+    font-size: large;
+}
